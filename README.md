@@ -1,6 +1,6 @@
 # SyncSync
 
-This program synchronizes  your phone with a Chrome Browser on your Computer System
+This program synchronizes  your phone with a Chrome Browser on your Computer System for remote browsing
 
 <b>Features:</b>
 
