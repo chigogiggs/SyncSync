@@ -7,3 +7,4 @@ This program synchronizes  your phone with a Chrome Browser on your Computer Sys
    -can connect to unlimited number of computers as long as they have the <b><i>SyncSync</i></b> software installed
    -synchronization
    -custom browser
+   
